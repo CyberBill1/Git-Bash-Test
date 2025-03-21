@@ -1,3 +1,0 @@
-Integrity,reliability, royalty to duty and a great team player 
-Defining a solution using architectural design principles based on customer requirements
-Architecting and deploying secure and robust applications using AWS
